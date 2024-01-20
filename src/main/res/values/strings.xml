@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">Everyone\'s gourmet</string>
+    <string name="signInOrRegisterButton">Sign In / Register</string>
+    <string name="signInAsGrest">Sign in as guest</string>
+    <string name="titleName">Everyone\'s gourmet</string>
+    <string name="cuisineTyoe1">Indian</string>
+    <string name="cuisineTyoe2">Italian</string>
+    <string name="cuisineTyoe3">Chinese</string>
+    <string name="cuisineTyoe4">Japanese</string>
+    <string name="cuisineTyoe5">Mexican</string>
+    <string name="searchButtonText">Search</string>
+    <string name="reviewButtonText">Review</string>
+    <string name="mapButtonText">Map</string>
+    <string name="recommendButtonText">Top Rated</string>
+
+    <string name="searchViewHint">Restaurant name, type</string>
+
+    <string name="restaurant1Name">Golden Corral</string>
+    <string name="restaurant2Name">Tony\'s Restaurant</string>
+    <string name="restaurant3Name">Thai Square</string>
+
+    <string name="restaurant1Description">Golden Corral© offers a legendary, endless buffet at breakfast, lunch, and dinner. From our home-style menu favorites to signature sirloin steaks to seasonal promotion specials, there are always new menu items to explore.</string>
+    <string name="restaurant2Description">Tony\'s Restaurant is an Italian food restaurant where Tony and Joe work, and where Lady and Tramp, and also Scamp and Angel, eat dinner and fall more in love in Lady and the Tramp and its sequel, respectively.</string>
+    <string name="restaurant3Description">The Thai Square Restaurant Group was founded in 1996 when the first of our Thai restaurant opened at The Strand in central London, aimed at serving tasty, authentic Thai food in Thai-inspired surroundings.</string>
+
+
+    <string name="golden_corral_des">Golden Corral© offers a legendary, endless buffet at breakfast, lunch, and dinner. From our home-style menu favorites to signature sirloin steaks to seasonal promotion specials, there are always new menu items to explore.
+
+Lunch and dinner includes our all-you-can-eat soup and salad bar, signature yeast rolls, and homemade desserts, along with soft-serve ice cream and our famous carrot cake. Our great value for a good price makes Golden Corral© a favorite family restaurant among adults and kids alike.
+
+Golden Corral’s unmatched variety accommodates most all nutrition needs such as low carb, vegan, paleo, and plant-based diet plans.
+
+To go and delivery available. A free, private party room is available for large groups and special occasions at every Golden Corral location. The Only One For Everyone®.
+
+Learn about our history, who we serve, how we give back, and our mission to deliver a pleasurable dining experience for families across America.</string>
+    <string name="golden_corral_des_header">America’s #1 Buffet + Grill</string>
+
+    <string name="username">Alma Owan</string>
+    <string name="comment">Yo this taste good</string>
+
+    <string-array name="homepage_tab_array">
+        <item>Restaurants</item>
+        <item>Top Ranked</item>
+    </string-array>
+    <string name="avatar">avatar</string>
+    <string name="title">title</string>
+    <string name="language_button">language</string>
+
+    <string-array name="restaurant_details_tab_array">
+        <item>Details</item>
+        <item>Comments</item>
+    </string-array>
+
+    <string name="dbUsername">tongsunny1999@gmail.com</string>
+    <string name="dbPassword">123456</string>
+    <string name="dbLoginSuccessful">DB login successful</string>
+    <string name="dbLoginUnsuccessful">DB login unsuccessful</string>
+    <string name="usernamestr">Username</string>
+
+    <string name="firestore_user_collection_key">user</string>
+    <string name="fireStore_username_field_name">username</string>
+    <string name="fireStore_password_field_name">password</string>
+    <string name="fireStore_image_field_name">icon</string>
+
+    <string name="nav_drawer_button_title_home">Homepage</string>
+    <string name="nav_drawer_button_title_edit_profile">Edit Profile</string>
+    <string name="nav_drawer_button_title_history">Review History</string>
+    <string name="nav_drawer_button_title_logout">Logout</string>
+    <string name="nav_drawer_button_title_login">Login</string>
+
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+
+    <string name="ratingTxt1">Overall</string>
+    <string name="ratingTxt2">Food</string>
+    <string name="ratingTxt3">Environment</string>
+    <string name="ratingTxt4">Attitude</string>
+
+    <string name="error_user_exist">username has been used</string>
+
+    <string name="intent_key_document">documentID</string>
+
+    <string name="preference_user_file_key">userInfo</string>
+    <string name="preference_key_userID">userID</string>
+    <string name="preference_key_password">password</string>
+    <string name="preference_key_usertype">userType</string>
+
+    <string name="preference_usertype_guest">guest</string>
+    <string name="preference_usertype_user">user</string>
+
+    <string name="edit_button_text_underlined"><u>edit</u></string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="bg_style_array">
+        <item>white</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>red</item>
+    </string-array>
+
+</resources>

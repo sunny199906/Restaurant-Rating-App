@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518621601562",
+    "project_id": "cs306coursework-9ea7b",
+    "storage_bucket": "cs306coursework-9ea7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518621601562:android:9537585aa85b790bb116a3",
+        "android_client_info": {
+          "package_name": "com.example.everyonesgourmet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518621601562-j0jf1rf9bqdamheo6iuobgjnns33vk09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1x-7ffy51gdem5oh54qpo2BWy-jo6MqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518621601562-j0jf1rf9bqdamheo6iuobgjnns33vk09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
