@@ -1,6 +1,6 @@
 # Restaurant-Rating-App
 An android restaurant rating app allows users to sort and find restaurants, leave their reviews, and see the overall rating. This app uses google firebase as its online database.<br><br>
-__Tools and Programming languages used__: Android studio, kotlin<br>
+__Tools and Programming languages used__: Android studio, kotlin<br><br>
 Screenshots: <br>
 ![sth](/images/1.PNG)<br>
 ![sth](/images/2.PNG)<br>
